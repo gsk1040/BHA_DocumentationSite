@@ -7,7 +7,7 @@ title: Hello World
 
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+First post on my Github Jekyll page on the first day of the BioHack Academy. Hello
 
 **bold**
 
