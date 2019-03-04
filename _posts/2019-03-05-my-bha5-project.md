@@ -9,6 +9,8 @@ this is my project outline.This is my first great project.
 It is a fusion of religion, medicine, nutrition, electrical engineering, programming, mechatronics, agriculture, humanities, and brain science.
 so very difficult and exciting experiment for me
 [mybha5project.pdf](https://github.com/BioHackAcademy/BHA_DocumentationSite/files/2928446/default.pdf)
+Does the vegetarian diet help in immersive thinking? brain wave EEG will solve this problem
+![image](https://user-images.githubusercontent.com/41887966/53770522-bf27b800-3f22-11e9-8237-55c474df3c07.png)
 
 and i want to be this magic also!, now maybe you think i'm crazy. but i'm not
 below post a documentary for health provide by netflix
