@@ -9,5 +9,6 @@ this is my project outline.This is my first great project.
 It is a fusion of religion, medicine, nutrition, electrical engineering, programming, mechatronics, agriculture, humanities, and brain science.
 so very difficult and exciting experiment for me
 
-        gsk1040.github.io/바이오핵아카데미.pdf
+        [bha5project.pdf](https://github.com/BioHackAcademy/BHA_DocumentationSite/files/2928446/default.pdf)
+
       
