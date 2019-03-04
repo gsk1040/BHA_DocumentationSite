@@ -10,6 +10,13 @@ It is a fusion of religion, medicine, nutrition, electrical engineering, program
 so very difficult and exciting experiment for me
 [mybha5project.pdf](https://github.com/BioHackAcademy/BHA_DocumentationSite/files/2928446/default.pdf)
 
+and i want to be this magic also!, now maybe you think i'm crazy. but i'm not
+below post a documentary for health provide by netflix
+![fatsickandnearlydead](https://user-images.githubusercontent.com/41887966/53769847-6eaf5b00-3f20-11e9-98f1-d3849a592c06.png)
+he success To verify the hypothesis his weight loss with vegetables and fruit juice
+![image](https://user-images.githubusercontent.com/41887966/53769894-a4544400-3f20-11e9-81af-229f6022893e.png)
+i'll verify hypothesis "if I only eating food some vegetable and fruit 
+For 30 days, i'll can be muscular man?"and smarter than eating meat
 
 some side project :Composting using food waste
 
