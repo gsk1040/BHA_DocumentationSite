@@ -32,3 +32,4 @@ finally i think this project
 It is a video containing scenes of vegetarianism in the meantime.
 The project decided it could take a long time to get results. Daniel concluded that God gave wisdom as a person of Scripture, and judging that he had wisdom through vegetarianism could be a wrong approach.
 ![](https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=F0569CF4AFEF63E7FDD8EB45260377399ADC&outKey=V128d26985e08f9eeb3f6cd38197caa537b5ad5f943edd1166c66cd38197caa537b5a&width=544&height=306)It is a video containing scenes of vegetarianism in the meantime.
+[![Vegetable diet2](https://img.youtu.be/vi/F5P8XVRR2IU/0.jpg)](https://youtu.be/F5P8XVRR2IU?t=0s)Vegetable diet2
