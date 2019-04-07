@@ -1,7 +1,7 @@
 ---
 
-goodluck: post
-
+layout: post
+comments:true
 title: "final project"
 
 ---
