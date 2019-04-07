@@ -50,7 +50,7 @@ baseurl: "/gsk1040"
 #
 
 markdown: kramdown
-highlighter: rough
+highlighter: pygmens
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
